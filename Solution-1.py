@@ -1,3 +1,3 @@
 n = int(input("Please enter a positive integer: "))
-ans = (n + 1) 
+ans = (n*(n + 1))/2
 print(ans)
