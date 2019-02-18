@@ -7,6 +7,8 @@ for x in range (1000, 10000) :
 
     if (x % 6 == 0)  and (x % 12 != 0) :
 
-        nl.append (str (x) )
+       print(x) 
+       
+#nl.append (str (x) )
 
-print (','.join (nl) )
+#print (','.join (nl) )
